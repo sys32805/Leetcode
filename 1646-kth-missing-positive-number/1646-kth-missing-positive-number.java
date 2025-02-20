@@ -11,10 +11,6 @@ class Solution {
                 sc.add(i);
             }
         }
-
-        System.out.println(sb);
-        System.out.println(sc);
-        // System.out.println(sc.get(k));
         if(sc.isEmpty()){
             return arr[arr.length-1]+k;
         }else if(sc.size() >= k){
