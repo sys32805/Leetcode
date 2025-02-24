@@ -51,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sys32805/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## String
+|  |
+| ------- |
+| [1542-consecutive-characters](https://github.com/sys32805/Leetcode/tree/master/1542-consecutive-characters) |
 <!---LeetCode Topics End-->
