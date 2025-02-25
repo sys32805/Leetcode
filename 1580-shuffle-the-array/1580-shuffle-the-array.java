@@ -8,7 +8,6 @@ class Solution {
            a[index++] = nums[j+n]; 
             j++;
         }
-        System.out.println(Arrays.toString(a));
         return a;
     }
 }
