@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sys32805/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sys32805/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sys32805/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/sys32805/Leetcode/tree/master/0217-contains-duplicate) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sys32805/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0898-transpose-matrix](https://github.com/sys32805/Leetcode/tree/master/0898-transpose-matrix) |
 | [1580-shuffle-the-array](https://github.com/sys32805/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sys32805/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/sys32805/Leetcode/tree/master/0217-contains-duplicate) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/sys32805/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 ## Divide and Conquer
 |  |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/sys32805/Leetcode/tree/master/0898-transpose-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sys32805/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
